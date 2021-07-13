@@ -29,7 +29,7 @@
 </template>
 
 <script>
-	import Prism from 'prismjs'
+	import Prism from 'prismjs' 
 	import 'prismjs/themes/prism-okaidia.css'
 	import '../utils/raf'
 	import data from '../mock/data'
